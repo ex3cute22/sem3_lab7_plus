@@ -16,7 +16,7 @@ private:
     std::string transmission; //Коробка передач
     std::string color; //Цвет машины
     int year; //Год автомобиля
-    int price; //Цена:
+    int price; //Цена
     static int count;
 public:
     void Init() {
